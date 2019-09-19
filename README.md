@@ -47,11 +47,13 @@ In this project, you will learn about using scripts, colliders and implement bas
 1. Add a Sphere Collider to the sphere.
 
 ### Teleporting STEAMVR
-1. Implement navigation with teleport using STEAMVR plugin
+1. Import Steam VR Plugin into your project (From the Unity asset store)
+1. Implement navigation with teleport using Steam VR plugin
 1. Delete the main camera game object from the Hierarchy panel
 > *test that your navigation works
 
 ### Prepare to submit
+> You will submit changes from the GitHub repo created for assignment2
 1. Take a screenshot of a)Scene view and b)Game view in action (while the play button is active)
 1. Add screenshots to the */Assets/Assignment3/Screenshots* folder
 1. Commit changes to repository, remember to add a useful commit message. (Summary: Assignmet 3, Description: What you did)
