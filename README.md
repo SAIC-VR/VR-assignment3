@@ -52,6 +52,8 @@ In this project, you will learn about using scripts, colliders and implement bas
 1. Delete the main camera game object from the Hierarchy panel
 > *test that your navigation works
 
+![](STEAMVR-teleport.png)
+
 ### Prepare to submit
 > You will submit changes from the GitHub repo created for assignment2
 1. Take a screenshot of a)Scene view and b)Game view in action (while the play button is active)
